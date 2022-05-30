@@ -1,2 +1,2 @@
-# First-steps-in-study
-My homework from Vadim Ksendzov and other
+# Homework GitBush
+My homework from Vadim Ksendzov
